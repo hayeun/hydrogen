@@ -1,5 +1,5 @@
 package hydrogen;
 
-public class application {
+public class Application {
 
 }
